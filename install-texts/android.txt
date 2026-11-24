@@ -1,0 +1,26 @@
+*Ask Buddha for Claude: install on Android*
+Ask Claude what the Buddha would think about anything. You get what the Pali texts say (with links), what modern knowledge adds, and where that reading stops.
+
+*1. Download*
+In Chrome, open:
+github.com/relisystems/ask-buddha/releases/latest/download/ask-buddha-plugin.zip
+It saves to Downloads. Don't open it.
+
+*2. Open Claude in Chrome*
+Go to claude.ai and sign in.
+Tap ⋮ (top right) > tick Desktop site.
+
+*3. Turn on files*
+Go to claude.ai/settings/capabilities
+Turn on "Create and edit files" (or "Code execution and file creation").
+Not there? Skip this step.
+Menu: ☰ (top left) > your name > Settings > Capabilities
+
+*4. Upload*
+Go to claude.ai/customize/plugins
+Tap + > Upload plugin > Downloads > ask-buddha-plugin.zip
+Menu: ☰ (top left) > Plugins (or Customize) > + > Upload plugin
+
+*5. Use it*
+In the Claude app, start with:
+Use the ask-buddha skill: what would the Buddha say about anger?
