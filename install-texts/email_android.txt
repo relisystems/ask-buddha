@@ -1,0 +1,27 @@
+Subject: ask-buddha: a skill for Claude (install on your Android phone)
+
+Hello,
+
+Attached is ask-buddha.zip, a skill for Claude. Ask Claude what the Buddha would think about anything, and you get what the Pali texts say (with links), what modern knowledge adds, and where that reading stops.
+
+To install it on your Android phone (you only do this once):
+
+PART 1: SAVE THE FILE
+1. Open this email in the Gmail app.
+2. Under ask-buddha.zip, tap the Download icon (the downward arrow).
+   The file is saved in your phone's Downloads folder. Don't open or unzip it.
+
+PART 2: INSTALL THE SKILL
+1. Open Chrome (not the Claude app).
+2. Go to claude.ai and sign in.
+3. Tap ⋮ (top right) and tick "Desktop site".
+4. In the address bar, type claude.ai/settings/capabilities and open it.
+   Turn on "Create and edit files" (older name: "Code execution and file creation").
+   Can't find it? Skip this step: if step 5 works, it's already on.
+5. In the address bar, type claude.ai/customize/skills and open it.
+   Tap +, then "Create skill", then "Upload a skill".
+6. When the file picker opens, tap Downloads and choose ask-buddha.zip.
+
+PART 3: USE IT
+In the Claude app, start your question with:
+Use the ask-buddha skill: what would the Buddha say about anger?
