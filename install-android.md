@@ -1,4 +1,4 @@
-# Install Ask Buddha on Android
+# Install Ask-Buddha on Android
 
 Ask Claude what the Buddha would think about anything. You get what the Pali texts say (with links), what modern knowledge adds, and where that reading stops.
 
@@ -39,4 +39,4 @@ In the Claude app, start your question with:
 
 ---
 
-[More about Ask Buddha](README.md)
+[More about Ask-Buddha](README.md)

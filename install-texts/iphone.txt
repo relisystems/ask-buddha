@@ -1,4 +1,4 @@
-*Ask Buddha for Claude: install on iPhone*
+*Ask-Buddha for Claude: install on iPhone*
 Ask Claude what the Buddha would think about anything. You get what the Pali texts say (with links), what modern knowledge adds, and where that reading stops.
 
 *1. Download*
